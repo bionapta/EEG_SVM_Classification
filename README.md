@@ -1,4 +1,4 @@
-# eeg_svm_thesis
+# Classification of Electroencephalogram Data Using Support Vector Machine Method
 This repository contains the source code and documentation for a project focusing on classifying Electroencephalogram (EEG) signals using Support Vector Machine (SVM).
 
 The project aims to differentiate between "normal" and "abnormal" brain conditions, with data collected from the PhysioNet database. 
